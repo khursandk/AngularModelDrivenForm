@@ -11,7 +11,7 @@ export class WeatherApiService {
   constructor(private http: HttpClient) { }
 
   getData(input:any) {
-    return this.http.get(this.apiurl+input); // api to get datat by city name
+    return this.http.get(this.apiurl+input); // api to get data by city name
   }
 
 }
