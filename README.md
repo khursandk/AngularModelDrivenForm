@@ -1,4 +1,8 @@
-# PlaneryTest
+## API Key
+
+this project uses https://openweathermap.org/api to get weater details so you need to create free account and replace the keys in the project
+
+# WeatherApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
