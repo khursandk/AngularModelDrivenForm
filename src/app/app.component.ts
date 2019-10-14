@@ -8,7 +8,7 @@ import { WeatherApiService } from './services/weather-api.service'
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Planery Test';
+  title = 'Weather Details';
   model: any = {};
 
   public WeatherData :any;
